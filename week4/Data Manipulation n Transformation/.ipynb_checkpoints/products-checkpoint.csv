@@ -1,0 +1,1001 @@
+Product_ID,Product_Category,Weight_kg,Unit_Price
+P0001,Home & Garden,3.39,180.56
+P0002,Sports,0.68,277.58
+P0003,Electronics,0.64,204.59
+P0004,Clothing,2.71,417.65
+P0005,Sports,13.01,408.26
+P0006,Home & Garden,4.31,307.86
+P0007,Sports,14.26,189.86
+P0008,Electronics,8.77,131.39
+P0009,Home & Garden,6.61,57.41
+P0010,Clothing,8.74,180.67
+P0011,Home & Garden,7.8,209.52
+P0012,Home & Garden,11.41,339.53
+P0013,Toys,4.31,330.79
+P0014,Home & Garden,5.36,39.7
+P0015,Home & Garden,13.42,200.65
+P0016,Sports,14.2,94.98
+P0017,Clothing,13.4,82.62
+P0018,Sports,6.35,414.51
+P0019,Sports,11.73,25.75
+P0020,Electronics,7.2,212.5
+P0021,Sports,7.51,88.26
+P0022,Toys,3.15,440.27
+P0023,Toys,8.91,280.74
+P0024,Electronics,2.87,119.53
+P0025,Clothing,5.04,253.7
+P0026,Clothing,12.84,367.09
+P0027,Sports,3.19,479.27
+P0028,Sports,1.16,114.12
+P0029,Sports,1.13,443.66
+P0030,Clothing,14.12,467.48
+P0031,Home & Garden,7.65,458.63
+P0032,Toys,6.2,319.53
+P0033,Home & Garden,12.18,316.76
+P0034,Home & Garden,12.55,204.59
+P0035,Clothing,5.05,377.44
+P0036,Home & Garden,10.43,267.99
+P0037,Electronics,11.59,340.33
+P0038,Sports,9.85,217.09
+P0039,Electronics,2.36,367.09
+P0040,Toys,13.15,413.11
+P0041,Sports,8.13,77.49
+P0042,Home & Garden,4.31,417.3
+P0043,Toys,6.44,272.45
+P0044,Sports,0.66,423.11
+P0045,Home & Garden,2.01,218.49
+P0046,Electronics,11.51,192.63
+P0047,Sports,0.1,457.96
+P0048,Home & Garden,6.31,129.33
+P0049,Electronics,7.89,422.89
+P0050,Toys,0.91,244.59
+P0051,Toys,14.6,259.48
+P0052,Toys,3.47,157.69
+P0053,Toys,4.63,288.66
+P0054,Clothing,4.63,165.98
+P0055,Sports,3.53,24.44
+P0056,Sports,0.12,139.64
+P0057,Clothing,10.97,8.16
+P0058,Home & Garden,14.51,489.29
+P0059,Home & Garden,3.44,483.04
+P0060,Toys,9.98,200.6
+P0061,Electronics,11.15,365.54
+P0062,Home & Garden,12.74,176.17
+P0063,Electronics,6.4,337.19
+P0064,Sports,4.61,403.69
+P0065,Electronics,4.95,473.64
+P0066,Sports,10.72,203.11
+P0067,Clothing,12.27,392.73
+P0068,Clothing,2.81,136.63
+P0069,Toys,5.63,495.21
+P0070,Home & Garden,13.54,17.76
+P0071,Toys,12.12,303.75
+P0072,Sports,14.77,331.46
+P0073,Toys,11.34,345.58
+P0074,Electronics,5.96,64.59
+P0075,Sports,8.9,469.57
+P0076,Clothing,9.95,94.69
+P0077,Home & Garden,1.27,313.26
+P0078,Sports,8.21,115.22
+P0079,Sports,10.67,157.07
+P0080,Electronics,2.59,275.5
+P0081,Home & Garden,11.73,211.51
+P0082,Clothing,8.8,84.31
+P0083,Sports,14.29,89.61
+P0084,Sports,0.73,211.98
+P0085,Electronics,4.05,379.86
+P0086,Toys,9.06,449.49
+P0087,Clothing,4.52,46.64
+P0088,Home & Garden,10.74,199.59
+P0089,Sports,11.41,54.62
+P0090,Sports,1.63,13.21
+P0091,Clothing,7.76,332.55
+P0092,Toys,7.68,303.21
+P0093,Sports,5.6,85.69
+P0094,Clothing,14.0,120.74
+P0095,Electronics,12.43,16.74
+P0096,Toys,10.49,418.3
+P0097,Home & Garden,10.74,487.47
+P0098,Sports,6.98,72.05
+P0099,Clothing,13.82,119.58
+P0100,Electronics,10.45,434.86
+P0101,Home & Garden,10.96,463.6
+P0102,Clothing,12.94,212.72
+P0103,Clothing,4.18,30.06
+P0104,Home & Garden,12.13,24.5
+P0105,Electronics,3.01,289.11
+P0106,Electronics,5.25,199.48
+P0107,Toys,5.1,19.18
+P0108,Sports,14.68,293.71
+P0109,Home & Garden,12.86,10.59
+P0110,Home & Garden,10.55,394.75
+P0111,Home & Garden,10.93,156.68
+P0112,Electronics,8.47,24.93
+P0113,Sports,14.21,296.23
+P0114,Toys,7.49,201.85
+P0115,Clothing,5.77,487.03
+P0116,Clothing,2.53,274.38
+P0117,Home & Garden,11.81,141.24
+P0118,Sports,11.04,356.17
+P0119,Electronics,5.83,139.39
+P0120,Sports,0.48,452.6
+P0121,Sports,12.6,190.49
+P0122,Electronics,0.27,277.18
+P0123,Home & Garden,10.59,30.03
+P0124,Sports,14.56,215.93
+P0125,Clothing,6.62,417.02
+P0126,Electronics,3.6,403.8
+P0127,Toys,10.6,116.04
+P0128,Home & Garden,12.28,116.91
+P0129,Electronics,8.24,409.57
+P0130,Toys,14.51,465.55
+P0131,Toys,0.87,52.2
+P0132,Sports,7.62,227.78
+P0133,Sports,10.8,172.04
+P0134,Sports,12.95,435.99
+P0135,Electronics,2.77,46.34
+P0136,Electronics,12.02,109.51
+P0137,Home & Garden,8.34,377.47
+P0138,Sports,6.01,30.39
+P0139,Toys,2.06,248.81
+P0140,Clothing,12.99,223.84
+P0141,Home & Garden,2.44,170.53
+P0142,Electronics,4.72,200.31
+P0143,Home & Garden,4.42,267.32
+P0144,Home & Garden,13.08,84.88
+P0145,Home & Garden,10.12,288.14
+P0146,Home & Garden,11.97,403.69
+P0147,Clothing,3.83,381.28
+P0148,Sports,9.41,81.18
+P0149,Toys,8.62,78.88
+P0150,Home & Garden,12.51,137.75
+P0151,Home & Garden,13.6,183.73
+P0152,Home & Garden,0.28,207.19
+P0153,Sports,10.14,341.45
+P0154,Electronics,0.87,33.06
+P0155,Electronics,8.28,22.16
+P0156,Clothing,4.39,199.0
+P0157,Electronics,4.67,350.1
+P0158,Home & Garden,5.36,100.75
+P0159,Home & Garden,9.36,322.54
+P0160,Home & Garden,5.08,133.61
+P0161,Clothing,11.02,443.61
+P0162,Home & Garden,6.13,448.37
+P0163,Electronics,1.12,152.16
+P0164,Sports,11.78,118.85
+P0165,Sports,4.36,208.6
+P0166,Toys,6.55,124.06
+P0167,Electronics,10.31,337.83
+P0168,Home & Garden,5.05,413.9
+P0169,Sports,0.94,338.18
+P0170,Electronics,5.67,413.05
+P0171,Sports,14.17,201.51
+P0172,Home & Garden,9.66,82.38
+P0173,Sports,10.11,370.29
+P0174,Toys,9.52,183.43
+P0175,Toys,3.06,337.28
+P0176,Sports,6.33,138.97
+P0177,Electronics,11.29,45.21
+P0178,Electronics,1.61,496.33
+P0179,Electronics,4.24,82.32
+P0180,Sports,4.22,494.27
+P0181,Electronics,6.54,488.75
+P0182,Home & Garden,14.71,397.94
+P0183,Toys,1.11,331.41
+P0184,Home & Garden,7.83,291.01
+P0185,Electronics,2.77,433.72
+P0186,Home & Garden,14.56,148.27
+P0187,Electronics,1.79,236.5
+P0188,Sports,6.11,311.6
+P0189,Home & Garden,11.09,208.54
+P0190,Sports,10.6,216.61
+P0191,Sports,6.4,168.49
+P0192,Clothing,5.26,284.29
+P0193,Electronics,6.02,426.03
+P0194,Toys,4.04,104.76
+P0195,Electronics,3.16,467.54
+P0196,Toys,7.3,346.1
+P0197,Electronics,4.1,412.52
+P0198,Sports,4.38,280.31
+P0199,Home & Garden,9.89,390.86
+P0200,Home & Garden,14.53,13.02
+P0201,Clothing,9.09,410.1
+P0202,Toys,1.25,24.87
+P0203,Toys,1.23,445.51
+P0204,Toys,14.28,496.02
+P0205,Sports,4.53,150.56
+P0206,Toys,1.47,109.11
+P0207,Home & Garden,9.03,383.85
+P0208,Sports,9.39,130.25
+P0209,Electronics,9.76,433.45
+P0210,Toys,4.08,55.91
+P0211,Toys,0.33,67.35
+P0212,Electronics,14.48,489.68
+P0213,Toys,3.84,338.55
+P0214,Electronics,10.17,424.21
+P0215,Sports,10.63,165.54
+P0216,Home & Garden,9.19,339.86
+P0217,Electronics,4.76,299.15
+P0218,Clothing,4.14,303.56
+P0219,Electronics,9.01,342.85
+P0220,Toys,13.0,289.8
+P0221,Sports,14.21,217.39
+P0222,Sports,1.68,141.58
+P0223,Electronics,2.41,385.45
+P0224,Home & Garden,14.18,117.0
+P0225,Clothing,11.07,347.72
+P0226,Sports,13.26,120.5
+P0227,Toys,3.12,314.54
+P0228,Toys,8.86,374.8
+P0229,Home & Garden,10.55,113.26
+P0230,Sports,10.23,34.67
+P0231,Electronics,6.18,69.83
+P0232,Toys,0.33,304.97
+P0233,Home & Garden,8.79,425.48
+P0234,Sports,3.87,27.27
+P0235,Sports,6.81,368.4
+P0236,Sports,14.37,173.95
+P0237,Sports,6.05,241.87
+P0238,Sports,12.61,464.79
+P0239,Toys,2.91,169.33
+P0240,Home & Garden,10.12,235.34
+P0241,Sports,14.66,11.77
+P0242,Clothing,1.62,45.39
+P0243,Clothing,0.22,133.0
+P0244,Home & Garden,6.56,18.79
+P0245,Electronics,1.48,317.53
+P0246,Electronics,11.25,216.07
+P0247,Electronics,13.73,276.33
+P0248,Clothing,6.57,91.45
+P0249,Electronics,3.95,151.49
+P0250,Toys,6.57,333.59
+P0251,Sports,10.88,482.82
+P0252,Clothing,0.23,29.96
+P0253,Home & Garden,8.88,445.74
+P0254,Home & Garden,9.24,290.56
+P0255,Sports,9.6,284.14
+P0256,Clothing,3.71,252.64
+P0257,Electronics,10.74,39.35
+P0258,Electronics,1.46,49.49
+P0259,Toys,3.07,302.45
+P0260,Toys,13.17,173.77
+P0261,Electronics,11.11,459.05
+P0262,Home & Garden,0.3,206.26
+P0263,Home & Garden,3.8,75.92
+P0264,Toys,3.29,358.79
+P0265,Sports,4.14,150.21
+P0266,Electronics,3.79,265.11
+P0267,Toys,1.03,350.43
+P0268,Toys,6.94,450.63
+P0269,Electronics,11.02,397.13
+P0270,Electronics,9.14,339.8
+P0271,Home & Garden,10.13,341.42
+P0272,Sports,1.31,473.23
+P0273,Sports,14.28,151.43
+P0274,Electronics,12.59,5.55
+P0275,Clothing,12.1,139.62
+P0276,Toys,12.36,112.86
+P0277,Toys,14.0,332.61
+P0278,Electronics,8.21,318.69
+P0279,Clothing,3.08,298.76
+P0280,Home & Garden,9.29,13.04
+P0281,Electronics,11.17,365.75
+P0282,Electronics,11.09,165.15
+P0283,Toys,7.87,334.2
+P0284,Electronics,1.12,280.51
+P0285,Electronics,5.63,174.65
+P0286,Electronics,13.82,71.62
+P0287,Toys,8.81,51.74
+P0288,Home & Garden,8.12,416.6
+P0289,Home & Garden,4.11,459.61
+P0290,Electronics,5.59,326.65
+P0291,Toys,13.44,56.2
+P0292,Home & Garden,10.03,204.0
+P0293,Home & Garden,11.83,365.82
+P0294,Home & Garden,6.87,391.01
+P0295,Toys,9.49,63.52
+P0296,Toys,3.8,5.02
+P0297,Electronics,10.61,357.51
+P0298,Sports,6.47,181.52
+P0299,Home & Garden,6.69,130.97
+P0300,Sports,9.77,11.38
+P0301,Toys,14.05,272.45
+P0302,Toys,1.05,426.32
+P0303,Toys,12.39,479.03
+P0304,Sports,4.46,285.04
+P0305,Toys,6.71,259.66
+P0306,Electronics,0.43,47.1
+P0307,Toys,4.59,276.69
+P0308,Clothing,7.59,193.09
+P0309,Sports,0.94,305.53
+P0310,Clothing,7.42,197.42
+P0311,Toys,13.91,123.95
+P0312,Electronics,1.67,52.01
+P0313,Home & Garden,11.49,160.88
+P0314,Toys,6.2,52.84
+P0315,Electronics,9.86,92.56
+P0316,Sports,3.98,493.73
+P0317,Clothing,2.48,224.83
+P0318,Clothing,2.49,268.28
+P0319,Clothing,1.15,437.44
+P0320,Sports,2.87,497.81
+P0321,Electronics,10.0,293.44
+P0322,Sports,13.24,407.17
+P0323,Clothing,12.23,166.84
+P0324,Toys,10.31,156.34
+P0325,Home & Garden,1.75,204.34
+P0326,Sports,4.41,337.89
+P0327,Sports,4.72,342.68
+P0328,Electronics,3.82,161.04
+P0329,Electronics,7.77,70.94
+P0330,Sports,8.08,318.04
+P0331,Clothing,5.42,68.52
+P0332,Home & Garden,5.37,291.35
+P0333,Electronics,12.45,348.24
+P0334,Clothing,11.86,351.8
+P0335,Toys,4.69,377.97
+P0336,Electronics,13.72,437.07
+P0337,Clothing,14.3,252.48
+P0338,Clothing,4.97,366.47
+P0339,Home & Garden,5.38,311.49
+P0340,Home & Garden,7.63,97.39
+P0341,Toys,14.12,17.72
+P0342,Clothing,13.16,145.85
+P0343,Clothing,1.63,224.3
+P0344,Home & Garden,5.95,310.47
+P0345,Electronics,8.35,425.73
+P0346,Electronics,7.6,102.14
+P0347,Sports,2.99,67.15
+P0348,Home & Garden,12.9,481.92
+P0349,Sports,10.19,58.48
+P0350,Home & Garden,12.58,241.85
+P0351,Toys,12.9,294.85
+P0352,Clothing,11.25,272.98
+P0353,Toys,6.64,47.59
+P0354,Home & Garden,9.2,33.23
+P0355,Clothing,2.49,57.21
+P0356,Electronics,10.14,294.87
+P0357,Electronics,2.77,274.45
+P0358,Sports,10.44,120.7
+P0359,Home & Garden,3.52,320.7
+P0360,Home & Garden,1.85,410.93
+P0361,Electronics,2.56,25.58
+P0362,Toys,0.13,251.57
+P0363,Clothing,10.81,346.21
+P0364,Toys,11.01,129.89
+P0365,Toys,7.77,157.35
+P0366,Electronics,2.5,308.75
+P0367,Electronics,1.34,449.48
+P0368,Electronics,0.39,405.91
+P0369,Sports,2.57,293.65
+P0370,Toys,13.37,366.46
+P0371,Home & Garden,3.7,185.59
+P0372,Clothing,5.38,322.28
+P0373,Sports,1.67,235.76
+P0374,Home & Garden,3.41,99.02
+P0375,Toys,7.84,352.36
+P0376,Electronics,9.16,280.45
+P0377,Toys,3.76,182.52
+P0378,Clothing,0.96,456.11
+P0379,Sports,5.93,15.36
+P0380,Sports,3.59,161.31
+P0381,Clothing,3.37,33.16
+P0382,Home & Garden,14.4,384.43
+P0383,Home & Garden,9.28,352.54
+P0384,Sports,8.4,169.02
+P0385,Sports,6.3,339.45
+P0386,Electronics,6.49,200.99
+P0387,Home & Garden,8.16,379.35
+P0388,Clothing,10.48,229.82
+P0389,Home & Garden,10.56,209.08
+P0390,Electronics,2.66,467.69
+P0391,Sports,7.55,129.19
+P0392,Sports,6.24,64.62
+P0393,Electronics,13.07,294.35
+P0394,Clothing,9.51,484.81
+P0395,Sports,8.03,192.03
+P0396,Toys,1.82,35.71
+P0397,Sports,9.12,172.96
+P0398,Toys,1.85,255.44
+P0399,Electronics,5.12,85.15
+P0400,Electronics,2.23,330.76
+P0401,Sports,10.41,498.89
+P0402,Home & Garden,3.17,228.61
+P0403,Toys,5.94,180.59
+P0404,Clothing,13.45,203.35
+P0405,Sports,3.14,62.0
+P0406,Clothing,7.67,442.22
+P0407,Sports,6.35,210.34
+P0408,Home & Garden,0.37,196.7
+P0409,Home & Garden,11.91,331.55
+P0410,Home & Garden,1.13,223.81
+P0411,Home & Garden,7.17,325.88
+P0412,Electronics,8.45,35.42
+P0413,Electronics,9.46,407.79
+P0414,Toys,10.36,470.55
+P0415,Clothing,3.87,326.14
+P0416,Sports,0.25,477.51
+P0417,Sports,10.88,79.96
+P0418,Electronics,8.08,241.32
+P0419,Sports,12.56,302.89
+P0420,Electronics,12.34,292.96
+P0421,Toys,12.67,203.72
+P0422,Clothing,7.33,172.35
+P0423,Toys,5.07,67.78
+P0424,Home & Garden,11.89,198.91
+P0425,Home & Garden,6.82,85.52
+P0426,Home & Garden,2.83,368.51
+P0427,Toys,12.84,108.37
+P0428,Sports,13.25,33.99
+P0429,Clothing,7.05,278.42
+P0430,Home & Garden,1.23,299.64
+P0431,Home & Garden,5.88,436.6
+P0432,Home & Garden,12.07,290.61
+P0433,Clothing,13.54,176.01
+P0434,Home & Garden,3.13,402.49
+P0435,Clothing,1.1,272.44
+P0436,Home & Garden,13.17,44.24
+P0437,Toys,5.9,285.1
+P0438,Toys,8.17,454.47
+P0439,Clothing,14.52,201.17
+P0440,Toys,1.09,151.68
+P0441,Clothing,9.76,76.02
+P0442,Toys,1.2,79.97
+P0443,Toys,5.69,219.22
+P0444,Clothing,12.08,299.86
+P0445,Sports,6.56,44.9
+P0446,Toys,14.96,470.09
+P0447,Home & Garden,8.43,378.79
+P0448,Sports,4.89,295.38
+P0449,Clothing,3.38,415.08
+P0450,Sports,5.32,44.69
+P0451,Electronics,5.65,241.04
+P0452,Electronics,1.12,316.9
+P0453,Toys,5.61,415.18
+P0454,Toys,7.02,392.82
+P0455,Home & Garden,10.87,142.15
+P0456,Sports,9.89,470.74
+P0457,Electronics,10.66,66.55
+P0458,Toys,0.22,438.19
+P0459,Sports,3.34,485.62
+P0460,Toys,9.96,92.69
+P0461,Toys,7.31,362.42
+P0462,Electronics,0.18,24.94
+P0463,Electronics,12.09,205.68
+P0464,Toys,11.61,260.56
+P0465,Clothing,8.27,292.42
+P0466,Toys,1.09,468.29
+P0467,Toys,11.52,337.76
+P0468,Home & Garden,8.8,243.23
+P0469,Home & Garden,11.75,405.79
+P0470,Home & Garden,11.3,475.51
+P0471,Clothing,12.06,15.92
+P0472,Clothing,7.82,491.35
+P0473,Toys,2.19,47.64
+P0474,Home & Garden,10.1,408.12
+P0475,Clothing,9.35,143.77
+P0476,Electronics,11.16,70.43
+P0477,Toys,2.63,222.73
+P0478,Sports,3.01,323.76
+P0479,Toys,13.37,193.57
+P0480,Sports,11.27,32.01
+P0481,Home & Garden,13.63,301.73
+P0482,Sports,11.4,451.69
+P0483,Home & Garden,9.0,194.69
+P0484,Electronics,9.85,112.08
+P0485,Sports,13.35,224.08
+P0486,Toys,8.72,28.94
+P0487,Home & Garden,9.52,411.14
+P0488,Toys,2.43,414.04
+P0489,Clothing,7.16,296.06
+P0490,Home & Garden,10.77,179.79
+P0491,Sports,4.14,400.89
+P0492,Home & Garden,3.11,279.57
+P0493,Toys,4.78,413.84
+P0494,Electronics,3.7,317.57
+P0495,Home & Garden,3.3,393.28
+P0496,Sports,6.43,301.29
+P0497,Clothing,13.63,210.0
+P0498,Electronics,7.66,479.18
+P0499,Clothing,2.9,272.85
+P0500,Home & Garden,1.25,304.52
+P0501,Toys,10.47,114.14
+P0502,Toys,5.8,314.7
+P0503,Sports,12.35,287.95
+P0504,Toys,9.93,96.5
+P0505,Electronics,11.96,34.5
+P0506,Toys,4.15,304.16
+P0507,Sports,10.42,383.03
+P0508,Home & Garden,4.03,264.08
+P0509,Home & Garden,14.09,117.25
+P0510,Toys,9.58,334.93
+P0511,Clothing,4.94,44.65
+P0512,Home & Garden,4.12,223.71
+P0513,Toys,2.94,85.87
+P0514,Sports,10.45,96.31
+P0515,Toys,3.36,105.14
+P0516,Home & Garden,8.97,196.42
+P0517,Sports,4.04,30.32
+P0518,Toys,9.96,201.91
+P0519,Electronics,12.24,258.3
+P0520,Sports,11.69,244.23
+P0521,Electronics,11.44,194.48
+P0522,Clothing,2.9,420.38
+P0523,Sports,1.42,76.94
+P0524,Electronics,10.51,255.32
+P0525,Home & Garden,5.59,35.71
+P0526,Home & Garden,6.54,40.22
+P0527,Clothing,0.56,289.06
+P0528,Sports,3.97,285.18
+P0529,Sports,0.6,439.63
+P0530,Sports,13.2,281.15
+P0531,Clothing,3.73,480.1
+P0532,Sports,8.4,29.1
+P0533,Home & Garden,0.68,53.51
+P0534,Electronics,10.04,26.81
+P0535,Home & Garden,4.91,96.71
+P0536,Home & Garden,13.48,272.93
+P0537,Electronics,13.33,324.56
+P0538,Home & Garden,4.95,27.56
+P0539,Clothing,13.52,473.26
+P0540,Electronics,14.94,421.87
+P0541,Home & Garden,12.4,151.82
+P0542,Toys,12.69,43.21
+P0543,Home & Garden,3.81,89.09
+P0544,Clothing,8.69,67.84
+P0545,Sports,1.1,66.03
+P0546,Home & Garden,1.51,261.69
+P0547,Sports,14.98,126.69
+P0548,Toys,4.97,182.28
+P0549,Home & Garden,11.25,494.81
+P0550,Electronics,12.12,343.74
+P0551,Sports,12.88,474.75
+P0552,Toys,14.96,75.57
+P0553,Electronics,3.7,194.16
+P0554,Electronics,0.7,279.59
+P0555,Electronics,6.23,43.0
+P0556,Electronics,2.04,7.07
+P0557,Home & Garden,0.43,336.86
+P0558,Home & Garden,5.47,322.7
+P0559,Home & Garden,11.78,208.34
+P0560,Toys,8.54,247.37
+P0561,Toys,4.76,210.64
+P0562,Toys,9.85,16.88
+P0563,Clothing,3.56,171.01
+P0564,Toys,0.31,92.66
+P0565,Home & Garden,11.49,53.72
+P0566,Home & Garden,9.39,478.58
+P0567,Clothing,11.46,301.68
+P0568,Clothing,0.68,365.68
+P0569,Toys,12.57,161.11
+P0570,Sports,9.33,199.61
+P0571,Clothing,8.49,122.28
+P0572,Electronics,9.41,53.0
+P0573,Home & Garden,12.98,93.62
+P0574,Electronics,8.85,399.77
+P0575,Home & Garden,8.76,340.39
+P0576,Home & Garden,14.86,275.73
+P0577,Clothing,11.38,240.17
+P0578,Clothing,6.69,461.6
+P0579,Electronics,10.64,41.0
+P0580,Home & Garden,5.9,143.9
+P0581,Electronics,3.51,178.22
+P0582,Sports,8.99,392.3
+P0583,Electronics,13.93,496.29
+P0584,Toys,13.94,124.13
+P0585,Electronics,5.19,437.78
+P0586,Toys,7.96,416.16
+P0587,Toys,3.25,116.21
+P0588,Toys,14.93,202.67
+P0589,Sports,14.72,207.79
+P0590,Electronics,9.78,489.22
+P0591,Electronics,12.09,94.54
+P0592,Sports,10.75,400.58
+P0593,Home & Garden,8.94,170.43
+P0594,Clothing,0.89,366.78
+P0595,Electronics,6.88,212.91
+P0596,Clothing,10.15,291.29
+P0597,Sports,10.2,417.14
+P0598,Home & Garden,5.66,403.06
+P0599,Home & Garden,14.13,433.88
+P0600,Home & Garden,2.59,34.51
+P0601,Sports,7.56,347.57
+P0602,Toys,10.39,74.29
+P0603,Toys,10.49,210.83
+P0604,Clothing,9.76,276.55
+P0605,Toys,4.2,204.36
+P0606,Toys,2.43,262.21
+P0607,Home & Garden,9.58,498.28
+P0608,Home & Garden,9.03,71.93
+P0609,Clothing,2.77,339.35
+P0610,Electronics,10.61,201.02
+P0611,Clothing,6.88,70.84
+P0612,Clothing,10.05,83.57
+P0613,Sports,12.58,474.89
+P0614,Sports,2.63,440.4
+P0615,Clothing,0.39,453.99
+P0616,Clothing,11.71,495.81
+P0617,Clothing,9.18,108.12
+P0618,Toys,10.52,180.94
+P0619,Sports,12.59,336.26
+P0620,Clothing,12.06,244.48
+P0621,Home & Garden,14.42,212.1
+P0622,Home & Garden,8.09,182.12
+P0623,Toys,7.38,298.92
+P0624,Toys,6.09,289.92
+P0625,Electronics,2.39,84.92
+P0626,Electronics,8.63,238.51
+P0627,Electronics,4.23,278.97
+P0628,Toys,13.83,287.29
+P0629,Toys,8.79,109.0
+P0630,Toys,8.93,372.42
+P0631,Home & Garden,5.39,17.47
+P0632,Toys,0.87,180.64
+P0633,Home & Garden,0.57,391.21
+P0634,Electronics,6.41,284.13
+P0635,Electronics,1.36,134.28
+P0636,Electronics,9.14,349.0
+P0637,Clothing,13.23,285.86
+P0638,Clothing,13.26,399.14
+P0639,Sports,9.92,368.84
+P0640,Sports,3.25,307.0
+P0641,Sports,12.96,246.65
+P0642,Clothing,13.3,70.93
+P0643,Clothing,3.03,134.36
+P0644,Sports,11.09,212.45
+P0645,Sports,4.37,301.65
+P0646,Toys,12.06,259.29
+P0647,Sports,14.96,147.65
+P0648,Toys,0.55,8.2
+P0649,Home & Garden,13.47,250.64
+P0650,Clothing,9.38,146.38
+P0651,Sports,14.6,368.63
+P0652,Clothing,7.03,16.85
+P0653,Clothing,12.73,294.49
+P0654,Clothing,1.03,471.03
+P0655,Home & Garden,5.1,91.33
+P0656,Electronics,1.1,238.47
+P0657,Sports,14.63,50.25
+P0658,Electronics,12.27,314.71
+P0659,Electronics,12.8,277.51
+P0660,Electronics,14.08,206.65
+P0661,Clothing,1.37,263.08
+P0662,Toys,5.85,448.8
+P0663,Clothing,1.16,102.17
+P0664,Clothing,3.24,16.17
+P0665,Electronics,3.52,431.52
+P0666,Clothing,7.09,290.67
+P0667,Electronics,4.1,445.88
+P0668,Toys,1.6,300.49
+P0669,Sports,2.6,406.03
+P0670,Electronics,2.29,217.69
+P0671,Toys,14.6,376.18
+P0672,Sports,11.41,456.96
+P0673,Home & Garden,14.52,288.2
+P0674,Electronics,6.65,94.49
+P0675,Electronics,4.25,138.05
+P0676,Home & Garden,11.99,103.33
+P0677,Home & Garden,4.96,127.19
+P0678,Electronics,4.56,156.68
+P0679,Home & Garden,3.56,279.79
+P0680,Clothing,2.03,296.06
+P0681,Sports,3.92,216.12
+P0682,Sports,5.39,309.63
+P0683,Sports,10.14,45.38
+P0684,Clothing,1.03,48.46
+P0685,Home & Garden,3.24,90.06
+P0686,Toys,12.15,261.45
+P0687,Home & Garden,2.29,110.93
+P0688,Electronics,5.21,145.23
+P0689,Sports,12.98,203.15
+P0690,Home & Garden,2.41,406.87
+P0691,Toys,1.33,11.86
+P0692,Electronics,7.32,326.44
+P0693,Clothing,4.61,336.09
+P0694,Clothing,8.49,400.33
+P0695,Toys,12.08,466.71
+P0696,Electronics,2.14,14.97
+P0697,Sports,8.75,81.12
+P0698,Home & Garden,7.63,443.65
+P0699,Electronics,2.25,231.97
+P0700,Clothing,9.4,284.47
+P0701,Toys,4.18,333.2
+P0702,Toys,7.37,341.14
+P0703,Home & Garden,1.33,466.21
+P0704,Toys,6.95,498.49
+P0705,Toys,4.67,361.48
+P0706,Electronics,12.35,147.17
+P0707,Sports,0.95,440.48
+P0708,Home & Garden,6.34,29.36
+P0709,Electronics,6.93,119.39
+P0710,Sports,10.9,449.21
+P0711,Electronics,8.66,131.81
+P0712,Electronics,10.04,114.22
+P0713,Toys,11.68,73.37
+P0714,Sports,12.95,430.26
+P0715,Home & Garden,4.78,252.53
+P0716,Home & Garden,8.12,339.07
+P0717,Sports,12.62,123.34
+P0718,Toys,14.84,380.23
+P0719,Clothing,13.35,381.2
+P0720,Electronics,5.63,159.74
+P0721,Toys,3.01,208.29
+P0722,Sports,7.39,108.8
+P0723,Electronics,11.15,488.4
+P0724,Home & Garden,7.44,324.57
+P0725,Clothing,7.3,467.6
+P0726,Home & Garden,12.59,155.18
+P0727,Sports,5.48,392.04
+P0728,Electronics,12.91,384.1
+P0729,Sports,6.16,347.37
+P0730,Electronics,4.99,482.99
+P0731,Toys,6.86,199.81
+P0732,Clothing,11.46,69.71
+P0733,Toys,1.98,337.5
+P0734,Toys,3.03,366.01
+P0735,Sports,14.28,289.65
+P0736,Clothing,2.71,107.37
+P0737,Electronics,8.56,254.71
+P0738,Electronics,8.73,159.53
+P0739,Home & Garden,7.4,216.6
+P0740,Electronics,9.71,324.38
+P0741,Sports,3.52,373.88
+P0742,Toys,8.33,119.95
+P0743,Toys,5.65,205.64
+P0744,Toys,9.96,138.23
+P0745,Clothing,2.2,103.32
+P0746,Electronics,8.61,392.78
+P0747,Sports,2.86,455.08
+P0748,Clothing,4.25,188.26
+P0749,Home & Garden,3.36,376.88
+P0750,Sports,2.82,449.01
+P0751,Sports,12.4,423.83
+P0752,Sports,4.36,95.49
+P0753,Toys,13.91,478.36
+P0754,Sports,14.55,191.45
+P0755,Electronics,8.61,172.92
+P0756,Sports,2.23,35.9
+P0757,Toys,5.68,245.66
+P0758,Sports,11.99,58.96
+P0759,Home & Garden,5.57,128.03
+P0760,Home & Garden,1.4,161.89
+P0761,Toys,8.4,405.37
+P0762,Electronics,12.69,438.37
+P0763,Electronics,11.96,154.72
+P0764,Clothing,2.71,430.06
+P0765,Toys,10.12,429.33
+P0766,Sports,3.39,383.5
+P0767,Toys,3.35,77.61
+P0768,Clothing,13.12,346.71
+P0769,Toys,3.82,472.79
+P0770,Toys,4.02,342.86
+P0771,Clothing,0.11,169.15
+P0772,Electronics,13.07,252.79
+P0773,Sports,11.91,324.63
+P0774,Clothing,9.45,257.73
+P0775,Home & Garden,11.28,64.38
+P0776,Electronics,2.37,159.47
+P0777,Home & Garden,6.93,402.19
+P0778,Electronics,5.33,431.4
+P0779,Sports,1.5,72.96
+P0780,Sports,7.34,476.43
+P0781,Toys,13.82,167.77
+P0782,Home & Garden,0.7,332.85
+P0783,Electronics,4.44,377.15
+P0784,Sports,3.19,406.91
+P0785,Clothing,3.65,473.15
+P0786,Sports,13.64,159.9
+P0787,Clothing,7.07,429.96
+P0788,Electronics,7.05,70.19
+P0789,Sports,11.43,354.0
+P0790,Sports,2.4,372.28
+P0791,Electronics,7.36,340.47
+P0792,Sports,6.51,129.9
+P0793,Clothing,8.99,437.16
+P0794,Sports,14.99,88.58
+P0795,Home & Garden,11.56,31.55
+P0796,Toys,6.03,360.15
+P0797,Clothing,12.43,240.36
+P0798,Home & Garden,2.64,425.3
+P0799,Electronics,0.55,194.78
+P0800,Clothing,3.15,88.3
+P0801,Toys,5.17,419.04
+P0802,Toys,7.71,276.71
+P0803,Electronics,9.27,98.65
+P0804,Electronics,13.67,361.59
+P0805,Clothing,7.7,258.0
+P0806,Sports,7.57,304.13
+P0807,Electronics,0.85,233.14
+P0808,Sports,0.62,415.21
+P0809,Home & Garden,8.31,415.63
+P0810,Toys,6.63,356.15
+P0811,Sports,12.6,57.17
+P0812,Toys,2.49,420.23
+P0813,Sports,0.47,337.15
+P0814,Home & Garden,6.79,350.03
+P0815,Electronics,3.64,184.68
+P0816,Home & Garden,0.84,440.24
+P0817,Electronics,10.9,364.06
+P0818,Electronics,1.76,60.73
+P0819,Toys,9.16,206.85
+P0820,Home & Garden,4.29,443.76
+P0821,Sports,2.69,28.36
+P0822,Home & Garden,5.76,480.9
+P0823,Toys,12.04,341.19
+P0824,Electronics,5.94,317.53
+P0825,Toys,11.29,138.93
+P0826,Clothing,1.97,128.15
+P0827,Clothing,11.61,471.32
+P0828,Sports,3.63,152.64
+P0829,Toys,10.19,388.88
+P0830,Sports,8.53,199.6
+P0831,Sports,13.94,73.93
+P0832,Clothing,5.87,10.3
+P0833,Sports,1.09,274.41
+P0834,Clothing,0.39,488.01
+P0835,Electronics,12.42,187.72
+P0836,Toys,7.92,181.81
+P0837,Sports,11.65,175.33
+P0838,Clothing,3.59,262.67
+P0839,Home & Garden,5.24,223.13
+P0840,Sports,0.55,440.56
+P0841,Electronics,14.43,255.23
+P0842,Electronics,10.05,256.34
+P0843,Home & Garden,14.0,73.49
+P0844,Clothing,4.06,491.46
+P0845,Sports,9.21,128.74
+P0846,Clothing,10.21,41.32
+P0847,Electronics,4.83,333.26
+P0848,Clothing,12.74,299.71
+P0849,Electronics,14.21,210.5
+P0850,Clothing,13.28,213.99
+P0851,Home & Garden,11.11,393.61
+P0852,Toys,4.23,101.88
+P0853,Home & Garden,4.3,411.03
+P0854,Home & Garden,14.45,326.13
+P0855,Toys,0.25,212.39
+P0856,Toys,10.77,231.72
+P0857,Sports,10.62,132.04
+P0858,Sports,9.38,377.3
+P0859,Home & Garden,14.85,258.87
+P0860,Home & Garden,4.75,163.82
+P0861,Electronics,5.17,300.04
+P0862,Electronics,1.28,497.89
+P0863,Sports,6.7,220.45
+P0864,Sports,3.99,460.74
+P0865,Electronics,5.22,175.78
+P0866,Electronics,12.54,32.09
+P0867,Clothing,14.04,106.1
+P0868,Clothing,2.87,212.25
+P0869,Electronics,5.65,113.72
+P0870,Clothing,13.94,5.11
+P0871,Toys,1.02,457.93
+P0872,Sports,1.48,422.72
+P0873,Sports,2.53,372.43
+P0874,Electronics,8.97,88.07
+P0875,Home & Garden,2.34,64.58
+P0876,Electronics,14.52,38.46
+P0877,Clothing,6.76,363.39
+P0878,Home & Garden,7.57,464.76
+P0879,Clothing,3.78,218.12
+P0880,Toys,7.12,63.97
+P0881,Clothing,9.96,258.63
+P0882,Toys,11.29,177.67
+P0883,Toys,11.33,190.54
+P0884,Clothing,8.71,312.56
+P0885,Clothing,13.57,360.77
+P0886,Toys,12.28,59.75
+P0887,Home & Garden,11.38,22.62
+P0888,Toys,0.93,497.19
+P0889,Sports,0.2,120.2
+P0890,Toys,3.27,31.65
+P0891,Home & Garden,9.99,98.99
+P0892,Sports,6.23,24.28
+P0893,Electronics,6.1,198.95
+P0894,Electronics,13.28,402.19
+P0895,Home & Garden,13.44,173.92
+P0896,Toys,13.65,224.87
+P0897,Clothing,4.78,339.42
+P0898,Home & Garden,10.4,256.9
+P0899,Sports,4.15,431.42
+P0900,Sports,2.94,433.69
+P0901,Electronics,2.85,9.91
+P0902,Sports,5.2,390.13
+P0903,Home & Garden,6.51,233.06
+P0904,Sports,12.48,494.48
+P0905,Home & Garden,1.89,244.2
+P0906,Clothing,11.05,493.51
+P0907,Electronics,8.02,378.51
+P0908,Sports,4.39,128.06
+P0909,Home & Garden,7.44,271.51
+P0910,Toys,4.57,496.11
+P0911,Electronics,8.98,429.48
+P0912,Clothing,6.56,53.2
+P0913,Home & Garden,2.55,354.65
+P0914,Clothing,1.84,176.06
+P0915,Clothing,8.25,8.46
+P0916,Sports,13.55,204.72
+P0917,Sports,5.22,121.2
+P0918,Home & Garden,11.02,410.34
+P0919,Toys,9.91,171.98
+P0920,Home & Garden,13.98,414.62
+P0921,Toys,12.33,5.3
+P0922,Clothing,8.54,157.37
+P0923,Electronics,9.89,124.38
+P0924,Home & Garden,13.49,120.62
+P0925,Home & Garden,6.05,38.75
+P0926,Toys,4.97,97.63
+P0927,Clothing,0.26,280.0
+P0928,Clothing,12.42,149.22
+P0929,Toys,12.03,211.61
+P0930,Clothing,1.66,191.55
+P0931,Sports,8.7,438.57
+P0932,Electronics,7.01,453.12
+P0933,Home & Garden,1.87,249.01
+P0934,Electronics,14.71,168.43
+P0935,Home & Garden,3.3,57.87
+P0936,Sports,1.1,476.93
+P0937,Clothing,8.96,34.81
+P0938,Toys,11.11,152.34
+P0939,Sports,0.58,152.54
+P0940,Electronics,9.91,163.6
+P0941,Toys,8.03,86.32
+P0942,Clothing,1.64,392.66
+P0943,Sports,2.67,65.64
+P0944,Toys,8.56,319.28
+P0945,Sports,4.52,66.3
+P0946,Sports,14.08,39.92
+P0947,Clothing,12.3,455.17
+P0948,Home & Garden,14.76,99.11
+P0949,Toys,3.97,411.52
+P0950,Clothing,14.55,274.59
+P0951,Sports,6.53,43.54
+P0952,Clothing,5.28,477.95
+P0953,Home & Garden,0.85,127.25
+P0954,Toys,0.89,430.52
+P0955,Home & Garden,10.41,88.56
+P0956,Electronics,6.92,427.7
+P0957,Toys,3.48,11.55
+P0958,Home & Garden,9.25,258.33
+P0959,Sports,3.87,385.87
+P0960,Toys,8.71,467.72
+P0961,Toys,5.45,455.06
+P0962,Clothing,12.37,410.71
+P0963,Sports,12.33,444.65
+P0964,Electronics,7.21,103.61
+P0965,Home & Garden,5.33,145.67
+P0966,Clothing,5.5,148.04
+P0967,Home & Garden,12.11,191.64
+P0968,Electronics,4.99,199.69
+P0969,Electronics,3.21,274.55
+P0970,Toys,1.36,84.14
+P0971,Electronics,7.05,347.17
+P0972,Home & Garden,7.28,87.95
+P0973,Sports,12.63,158.6
+P0974,Sports,3.4,254.16
+P0975,Toys,5.78,399.24
+P0976,Home & Garden,12.15,371.04
+P0977,Home & Garden,12.37,324.54
+P0978,Electronics,5.83,82.11
+P0979,Home & Garden,6.94,275.79
+P0980,Clothing,4.62,48.29
+P0981,Electronics,14.0,191.79
+P0982,Clothing,1.87,209.69
+P0983,Toys,14.01,24.71
+P0984,Sports,10.29,140.62
+P0985,Toys,8.02,478.05
+P0986,Sports,0.59,477.05
+P0987,Toys,7.19,179.4
+P0988,Home & Garden,6.18,26.33
+P0989,Clothing,2.5,93.65
+P0990,Sports,9.88,199.15
+P0991,Electronics,14.57,474.15
+P0992,Clothing,8.48,74.89
+P0993,Electronics,10.75,382.94
+P0994,Clothing,1.12,58.8
+P0995,Clothing,6.32,490.72
+P0996,Toys,1.83,193.9
+P0997,Sports,9.23,388.74
+P0998,Sports,14.08,174.58
+P0999,Clothing,9.96,315.7
+P1000,Home & Garden,1.24,100.05
